@@ -8,5 +8,3 @@
 - [Product School](https://www.productschool.com/learn-from-home/?ref=producthunt) - Free online resources for product managers.
 - [NodeCLI.com](https://nodecli.com/) - Build Node.js Command-line Automation Dev-tools.
 - [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
-.
-- [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash..
