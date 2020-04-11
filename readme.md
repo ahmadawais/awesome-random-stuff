@@ -10,3 +10,4 @@
 - [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
 - [SVGOMG](https://jakearchibald.github.io/svgomg/) - Optimize SVGS. SVGO's Missing GUI.
 - [HTML2Jade](http://html2jade.org/) - HTML to Jade/Pug Online Realtime Converter.
+- [mathiasbynens/emoji-regex](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard.
