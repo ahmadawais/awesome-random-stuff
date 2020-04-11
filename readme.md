@@ -4,3 +4,4 @@
 
 ### April 11, 2020 
 - [table-magic - Generate markdown tables and more.](https://stevecat.net/table-magic/#) 
+- [Try Markmap](https://markmap.js.org/repl/) 
