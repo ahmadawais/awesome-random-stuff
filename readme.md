@@ -1,7 +1,7 @@
-# Interesting
+# Awesome Random Stuff
 
-> Collection of interesting things I find on the World Wide Web.
+> Collection of interesting & awesome random stuff I find on the World Wide Web.
 
-### April 11, 2020 
-- [table-magic - Generate markdown tables and more.](https://stevecat.net/table-magic/#) 
-- [Try Markmap](https://markmap.js.org/repl/) 
+### April 11, 2020
+
+- [table-magic](https://stevecat.net/table-magic/#) - Generate markdown tables and more.
