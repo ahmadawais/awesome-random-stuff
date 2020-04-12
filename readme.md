@@ -2,6 +2,9 @@
 
 > Collection of interesting & awesome random stuff I find on the World Wide Web.
 
+
+### April 12, 2020
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool.
 ### April 11, 2020
 
 - [table-magic](https://stevecat.net/table-magic/#) - Generate markdown tables and more.
