@@ -6,6 +6,7 @@
 
 ### April 13, 2020
 - [Emoji Log VSCode](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode) - Emoji Log for Visual Studio Code.
+- [HTML/CSS/JS](https://twitter.com/StasKlymenko/status/1248199947528409088) - The perfect explanation.
 ### April 12, 2020
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool.
 ### April 11, 2020
