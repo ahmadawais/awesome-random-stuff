@@ -3,6 +3,9 @@
 > Collection of interesting & awesome random stuff I find on the World Wide Web.
 
 
+
+### April 13, 2020
+- [Emoji Log VSCode](https://marketplace.visualstudio.com/items?itemName=ahmadawais.emoji-log-vscode) - Emoji Log for Visual Studio Code.
 ### April 12, 2020
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool.
 ### April 11, 2020
