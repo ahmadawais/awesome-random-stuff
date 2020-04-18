@@ -6,6 +6,9 @@
 
 
 
+
+### April 18, 2020
+- [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
 ### April 16, 2020
 - [Vime](https://vime-js.com/) - All your media player needs in one place - a modern alternative to Videojs and Plyr. Supports Html5, Hls, Dash, YouTube, Vimeo, Dailymotion and more to come.
 - [CSS Color Gradient Generator](https://mybrandnewlogo.com/color-gradient-generator) - Free CSS color gradient generator. Perfect for gradient backgrounds or UI elements on your website, easy to use.
