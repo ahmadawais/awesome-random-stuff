@@ -12,6 +12,7 @@
 ### April 20, 2020
 - [background generator](https://background-generator.com/) - Does what the name says it does.
 - [Bookmarklet Creator](https://mrcoles.com/bookmarklet/) - A simple web based tool to convert JavaScript into a bookmarklet and optionally include external scripts, like jQuery. There is an automated demo included at the bottom of the page.
+- [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - PWA asset generator based on Puppeteer. Automatically generates icons and splash screens guided by Web App Manifest specs and Apple Human Interface guidelines. Updates manifest.json and index.html files with the generated images.
 ### April 19, 2020
 - [Grab n'go visual CSS editor](https://cssbuilder.veliovgroup.com/) - Quickly prototype, mock, edit, and generate valid CSS for Safari, Chrome, Firefox, Opera, and IE browsers. Learn CSS while tinkering its properties visually.
 - [GitHub Polls](https://gh-polls.com/) - SVG polls you can embed in GitHub issues or readmes.
