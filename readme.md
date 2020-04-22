@@ -9,6 +9,9 @@
 
 
 
+
+### April 22, 2020
+- [I self-published](https://hellowebbooks.com/news/how-i-launched-my-learn-to-code-book-and-made-nearly-5000-in-pre-orders/#show-last-Point) - Something worth reading if you intend to self-publish.
 ### April 20, 2020
 - [background generator](https://background-generator.com/) - Does what the name says it does.
 - [Bookmarklet Creator](https://mrcoles.com/bookmarklet/) - A simple web based tool to convert JavaScript into a bookmarklet and optionally include external scripts, like jQuery. There is an automated demo included at the bottom of the page.
