@@ -10,6 +10,9 @@
 
 
 
+
+### April 23, 2020
+- [pattern.css](https://bansal.io/pattern-css) - Fantastic CSS only library to fill your empty background with beautiful patterns.
 ### April 22, 2020
 - [I self-published](https://hellowebbooks.com/news/how-i-launched-my-learn-to-code-book-and-made-nearly-5000-in-pre-orders/#show-last-Point) - Something worth reading if you intend to self-publish.
 - [themer](https://themer.dev/?ck_subscriber_id=783973516) - themer takes a set of colors and generates themes for your apps: editors, terminals, wallpapers, and more.
