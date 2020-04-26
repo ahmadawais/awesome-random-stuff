@@ -15,6 +15,7 @@
 
 ### April 26, 2020
 - [ManyPixels ](https://www.manypixels.co/) - ManyPixels offers unlimited graphic and web design services for a flat monthly fee. Get your personal graphic designer in a few clicks.
+- [SaaS from scratch](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8) - How to build a SaaS with $0.
 ### April 25, 2020
 - [HTML Table To JSON Converter](https://www.convertjson.com/html-table-to-json.htm) - Convert JSON to HTML Table
 ### April 23, 2020
