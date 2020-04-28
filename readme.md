@@ -2,6 +2,9 @@
 
 > Collection of interesting & awesome random stuff I find on the World Wide Web.
 
+
+### April 28, 2020
+- [NAÏVE ](https://naive.pro/?ref=producthunt) - Improve your workflow: Cut shake and overexposure, Create proxy files, Sync multicam in-one-place — Automagically! Perfect for Adobe Premiere Pro.
 ### April 26, 2020
 - [ManyPixels ](https://www.manypixels.co/) - ManyPixels offers unlimited graphic and web design services for a flat monthly fee. Get your personal graphic designer in a few clicks.
 - [SaaS from scratch](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8) - How to build a SaaS with $0.
