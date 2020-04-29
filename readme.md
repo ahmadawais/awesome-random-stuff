@@ -8,6 +8,7 @@
 - [SVG to PNG ](https://svgtopng.com/) - This free online SVG to PNG converter allows you to convert SVG files to PNG images, quickly and easily.
 - [Components AI](https://components.ai/) - With Components AI you can generate gradients, font pairings, and explore hand curated components.
 - [1loc](https://1loc.dev/) - Useful JavaScript single line of code.
+- [Subscriptions](https://play.google.com/store/apps/details?id=de.simolation.subscriptionmanager&utm_source=simons.page&ref=simons.page) - Almost everyone now pays for services on a regular basis. Whether Spotify, Netflix, and Co. you quickly lose track of what you actually spend.With this app, you simply enter the existing subscriptions and you have an easy overview.⭐ Features ⭐- Create regular and one-time subscriptions- Enter the billing period to see the next payment date- Add important data for each subscription (description, the start of payment, Payment method, and notes)- 160+ different currencies with the current exchange rate- Optional dark design- Backup possibility (including Google Drive option).
 ### April 28, 2020
 - [NAÏVE ](https://naive.pro/?ref=producthunt) - Improve your workflow: Cut shake and overexposure, Create proxy files, Sync multicam in-one-place — Automagically! Perfect for Adobe Premiere Pro.
 ### April 26, 2020
