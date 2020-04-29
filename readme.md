@@ -7,6 +7,7 @@
 ### April 29, 2020
 - [SVG to PNG ](https://svgtopng.com/) - This free online SVG to PNG converter allows you to convert SVG files to PNG images, quickly and easily.
 - [Components AI](https://components.ai/) - With Components AI you can generate gradients, font pairings, and explore hand curated components.
+- [1loc](https://1loc.dev/) - Useful JavaScript single line of code.
 ### April 28, 2020
 - [NAÏVE ](https://naive.pro/?ref=producthunt) - Improve your workflow: Cut shake and overexposure, Create proxy files, Sync multicam in-one-place — Automagically! Perfect for Adobe Premiere Pro.
 ### April 26, 2020
