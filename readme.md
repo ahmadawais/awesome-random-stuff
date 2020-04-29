@@ -3,6 +3,9 @@
 > Collection of interesting & awesome random stuff I find on the World Wide Web.
 
 
+
+### April 29, 2020
+- [SVG to PNG ](https://svgtopng.com/) - This free online SVG to PNG converter allows you to convert SVG files to PNG images, quickly and easily.
 ### April 28, 2020
 - [NAÏVE ](https://naive.pro/?ref=producthunt) - Improve your workflow: Cut shake and overexposure, Create proxy files, Sync multicam in-one-place — Automagically! Perfect for Adobe Premiere Pro.
 ### April 26, 2020
