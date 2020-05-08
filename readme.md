@@ -5,6 +5,9 @@
 
 
 
+
+### May 9, 2020
+- [Let's Enhance](https://letsenhance.io/v2/boost) - Enhance your images to 4x for free.
 ### May 7, 2020
 - [Resumes.io](https://www.resumes.io/create-a-resume) - Create your resume and get hired fast with Resume Builder. Our online tool will guide you through each step so you can be confident with the result.
 - [Resume Maker](https://latexresu.me/) - Latex resumes. I like the first template a lot.
