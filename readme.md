@@ -9,6 +9,9 @@
 
 
 
+
+### May 17, 2020
+- [HackerNews Trends](https://showcase.metamate.io/hackernews-trends) - Nice trends site to analyze data on HN.
 ### May 15, 2020
 - [Bensound](https://www.bensound.com/) - Royalty Free Music. Free license requires attribution.
 ### May 12, 2020
