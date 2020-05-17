@@ -12,6 +12,7 @@
 
 ### May 17, 2020
 - [HackerNews Trends](https://showcase.metamate.io/hackernews-trends) - Nice trends site to analyze data on HN.
+- [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - This Word Does Not Exist uses an artificial intelligence model named GPT-2 to invent new English words.
 ### May 15, 2020
 - [Bensound](https://www.bensound.com/) - Royalty Free Music. Free license requires attribution.
 ### May 12, 2020
