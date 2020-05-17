@@ -10,6 +10,9 @@
 
 
 
+
+### May 18, 2020
+- [When To Launch Your Product ](https://whentolaunch.app/insights) - Insights on when to launch a product on ProductHunt. Pretty useful.
 ### May 17, 2020
 - [HackerNews Trends](https://showcase.metamate.io/hackernews-trends) - Nice trends site to analyze data on HN.
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - This Word Does Not Exist uses an artificial intelligence model named GPT-2 to invent new English words.
