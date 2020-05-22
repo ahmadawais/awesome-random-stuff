@@ -16,6 +16,7 @@
 ### May 22, 2020
 - [Freesound](https://freesound.org/browse/) - A collaborative database of creative-commons licensed sound for musicians and sound lovers.
 - [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - The best guide on making Google Fonts faster upto 1200ms.
+- [Text to SVG](https://maketext.io/) - Cool Texts Generator in SVG / PNG with 30+ Effects x 800+ Fonts
 ### May 20, 2020
 - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - Enter this ‘minimal CSS framework switcher’ where you get to preview lots of minimal CSS frameworks on a single page. 
 ### May 18, 2020
