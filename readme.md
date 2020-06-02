@@ -15,6 +15,9 @@
 
 
 
+
+### June 2, 2020
+- [Blobs](https://blobs.app/) - Generate beautiful blob shapes for web and flutter apps.
 ### May 26, 2020
 - [Untools](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 - [Postaga](https://postaga.com/) - Generate more backlinks and social shares with effective, automated post promotion and outreach.
