@@ -16,6 +16,9 @@
 
 
 
+
+### June 4, 2020
+- [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - I hate writing assignments so I made this tool that converts text to an image that looks like handwriting. You can copy paste text content into the textbox and click generate image button to generate image.
 ### June 2, 2020
 - [Blobs](https://blobs.app/) - Generate beautiful blob shapes for web and flutter apps.
 - [Trianglify.io](https://trianglify.io/?ref=producthunt) - Trianglify.io is a tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
