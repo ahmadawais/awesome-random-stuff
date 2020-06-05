@@ -17,6 +17,9 @@
 
 
 
+
+### June 5, 2020
+- [Image Annotations](https://www.goodannotations.com/editor/) - Online Annotator, could be helpful.
 ### June 4, 2020
 - [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/) - I hate writing assignments so I made this tool that converts text to an image that looks like handwriting. You can copy paste text content into the textbox and click generate image button to generate image.
 ### June 2, 2020
