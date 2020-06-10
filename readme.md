@@ -18,6 +18,9 @@
 
 
 
+
+### June 11, 2020
+- [Web Dev Resources](https://twitter.com/tucker_dev/status/1270765145619337218) - A big 🧵 of free web development resources.
 ### June 5, 2020
 - [Image Annotations](https://www.goodannotations.com/editor/) - Online Annotator, could be helpful.
 ### June 4, 2020
