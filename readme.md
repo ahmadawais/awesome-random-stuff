@@ -24,6 +24,7 @@
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
 - [IRA Design](https://iradesign.io/) - Build your own amazing illustrations.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - All the resources you need to give yourself a world class computer science education.
+- [Building a Full-Stack App with Serverless and React](https://serverless-stack.com/#table-of-contents) - Free step-by-step tutorials for creating full-stack apps with Serverless Framework and React.js. Build a Serverless REST API with our Serverless tutorial and connect it to a React single-page application with our React.js tutorial. Use our AWS tutorial with screenshots to deploy your full-stack app.
 ### June 5, 2020
 - [Image Annotations](https://www.goodannotations.com/editor/) - Online Annotator, could be helpful.
 ### June 4, 2020
