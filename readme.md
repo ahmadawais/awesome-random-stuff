@@ -21,6 +21,7 @@
 
 ### June 11, 2020
 - [Web Dev Resources](https://twitter.com/tucker_dev/status/1270765145619337218) - A big 🧵 of free web development resources.
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
 ### June 5, 2020
 - [Image Annotations](https://www.goodannotations.com/editor/) - Online Annotator, could be helpful.
 ### June 4, 2020
