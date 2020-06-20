@@ -22,6 +22,7 @@
 
 ### June 20, 2020
 - [Netguru – Resources](https://www.netguru.com/resources#ebooks) - Design for free books.
+- [Design Process for Pros](https://www.netguru.com/design-process) - Love that book design, how on hover a new chapter shows up. Ahmazing.
 ### June 11, 2020
 - [Web Dev Resources](https://twitter.com/tucker_dev/status/1270765145619337218) - A big 🧵 of free web development resources.
 - [The Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
