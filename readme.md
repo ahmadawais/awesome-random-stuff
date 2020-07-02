@@ -25,6 +25,7 @@
 
 ### July 2, 2020
 - [Free illustrations ](https://freeillustrations.xyz/?ref=producthunt) - Free illustrations help you find free to use illustrations & vectors for your next personal or commercial project. ✓ PNG ✓ SVG ✓ PSD ✓ SKETCH ✓ FIGMA ✓ PDF.
+- [How to Target Email Clients](https://howtotarget.email/) - Crowdsourced email development techniques for singling out email clients and platforms. Created by @dylanatsmith.
 ### June 28, 2020
 - [SVG Draw](https://editor.method.ac/) - Draw SVGs
 ### June 22, 2020
