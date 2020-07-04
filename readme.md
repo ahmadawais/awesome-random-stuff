@@ -23,6 +23,9 @@
 
 
 
+
+### July 5, 2020
+- [Alt-texts: The Ultimate Guide - Axess Lab](https://axesslab.com/alt-texts/#main-content) - This post contains everything you need to know about alt-texts! When to use them and how to perfectly craft them. By me, Daniel, a web developer with vision impairment who use a screen reader in my day-to-day life. My experience of images on the web I use a combination of magnification and screen reader when […]
 ### July 2, 2020
 - [Free illustrations ](https://freeillustrations.xyz/?ref=producthunt) - Free illustrations help you find free to use illustrations & vectors for your next personal or commercial project. ✓ PNG ✓ SVG ✓ PSD ✓ SKETCH ✓ FIGMA ✓ PDF.
 - [How to Target Email Clients](https://howtotarget.email/) - Crowdsourced email development techniques for singling out email clients and platforms. Created by @dylanatsmith.
