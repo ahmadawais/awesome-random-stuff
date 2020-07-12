@@ -27,6 +27,7 @@
 
 ### July 13, 2020
 - [Animate | Keyframes.app](https://keyframes.app/animate/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
+- [Image Extractor](https://extract.pics/) - A free tool to extract, view and download images from websites.
 ### July 5, 2020
 - [Alt-texts: The Ultimate Guide - Axess Lab](https://axesslab.com/alt-texts/#main-content) - This post contains everything you need to know about alt-texts! When to use them and how to perfectly craft them. By me, Daniel, a web developer with vision impairment who use a screen reader in my day-to-day life. My experience of images on the web I use a combination of magnification and screen reader when […]
 - [The alt text](https://twitter.com/vavroom/status/1067579069682769920) - Alt text  for a linked image should be the destination of the link, rather than a description of what is in the image. Otherwise, screen reader users will not know where the link goes. #a11y #accessibility" / Twitter
