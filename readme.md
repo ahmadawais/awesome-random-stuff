@@ -25,6 +25,9 @@
 
 
 
+
+### July 14, 2020
+- [Copy Paste List](https://copypastelist.com/) - Quick, unformatted, copy and paste-able lists for all your needs.
 ### July 13, 2020
 - [Animate | Keyframes.app](https://keyframes.app/animate/) - Keyframes gives you a visual timeline to help you create, view, and run animations without having to go back and forth between your browser and editor.
 - [Image Extractor](https://extract.pics/) - A free tool to extract, view and download images from websites.
