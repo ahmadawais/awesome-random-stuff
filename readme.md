@@ -29,6 +29,7 @@
 
 ### July 17, 2020
 - [GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.](https://archiveprogram.github.com/) - The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway. Blog Design.
+- [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/) - 550+ Customizable free SVG icons - Tabler Icons
 ### July 14, 2020
 - [Copy Paste List](https://copypastelist.com/) - Quick, unformatted, copy and paste-able lists for all your needs.
 ### July 13, 2020
