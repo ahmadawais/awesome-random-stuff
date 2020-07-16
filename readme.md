@@ -32,6 +32,7 @@
 - [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/) - 550+ Customizable free SVG icons - Tabler Icons
 - [Squircley | SVG Squircle Maker](https://squircley.app/) - Create and export beautiful SVG squircles to use in your designs.
 - [Styles Directory | Style Stage](https://stylestage.dev/styles/) - Modern CSS Styles
+- [The Whimsical Web](https://whimsical.club/) - A curated list of sites with an extra bit of fun.
 ### July 14, 2020
 - [Copy Paste List](https://copypastelist.com/) - Quick, unformatted, copy and paste-able lists for all your needs.
 ### July 13, 2020
