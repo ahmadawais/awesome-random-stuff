@@ -27,6 +27,9 @@
 
 
 
+
+### July 19, 2020
+- [Appydev | Find awesome tools](https://appydev.co/) - Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts.
 ### July 17, 2020
 - [GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.](https://archiveprogram.github.com/) - The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway. Blog Design.
 - [Tabler Icons - 550+ Highly customizable free SVG icons](https://tablericons.com/) - 550+ Customizable free SVG icons - Tabler Icons
