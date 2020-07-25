@@ -28,6 +28,9 @@
 
 
 
+
+### July 25, 2020
+- [Shape - 20000+ Icons & Illustrations to SVG, Lottie, React.](https://shape.so/) - Shape lets you customize the style, colors and border of static & animated icons and illustrations. You can export to React, SVG and Lottie code.
 ### July 19, 2020
 - [Appydev | Find awesome tools](https://appydev.co/) - Appydev is a collection of awesome tools, resources, communities & podcasts for developers, designers & enthusiasts.
 ### July 17, 2020
