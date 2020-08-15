@@ -34,6 +34,7 @@
 
 ### August 16, 2020
 - [Home | Maizzle - Framework for Rapid Email Prototyping](https://maizzle.com/) - Maizzle is a framework that helps you quickly build HTML emails with Tailwind CSS and advanced, email-specific post-processing.
+- [bashaus/prevent-widows: Prevent widows from appearing in a string (includes posthtml implementation)](https://github.com/bashaus/prevent-widows) - Prevent widows from appearing in a string (includes posthtml implementation) - bashaus/prevent-widows
 ### August 15, 2020
 - [npm registry/authentication](https://github.com/npm/registry/blob/master/docs/user/authentication.md) - npm registry authentication documentation. Hard to find otherwise.
 ### July 26, 2020
