@@ -30,6 +30,9 @@
 
 
 
+
+### August 15, 2020
+- [npm registry/authentication](https://github.com/npm/registry/blob/master/docs/user/authentication.md) - npm registry authentication documentation. Hard to find otherwise.
 ### July 26, 2020
 - [3D Book Image CSS Generator](https://3d-book-css.netlify.app/) - Generate an animated 3D image from a book cover and export to HTML/CSS to embed on your website.
 ### July 25, 2020
