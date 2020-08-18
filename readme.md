@@ -32,6 +32,9 @@
 
 
 
+
+### August 18, 2020
+- [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/#) - Amazing CSS only bg patterns.
 ### August 16, 2020
 - [Home | Maizzle - Framework for Rapid Email Prototyping](https://maizzle.com/) - Maizzle is a framework that helps you quickly build HTML emails with Tailwind CSS and advanced, email-specific post-processing.
 - [bashaus/prevent-widows: Prevent widows from appearing in a string (includes posthtml implementation)](https://github.com/bashaus/prevent-widows) - Prevent widows from appearing in a string (includes posthtml implementation) - bashaus/prevent-widows
