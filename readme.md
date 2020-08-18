@@ -33,6 +33,9 @@
 
 
 
+
+### August 19, 2020
+- [Squircley | SVG Squircle Maker](https://squircley.app/) - Create and export beautiful SVG squircles to use in your designs.
 ### August 18, 2020
 - [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/#) - Amazing CSS only bg patterns.
 ### August 16, 2020
