@@ -34,6 +34,9 @@
 
 
 
+
+### August 20, 2020
+- [System UIcons](https://systemuicons.com/) - A free icon set designed for systems and products. Use how you want, without attribution.
 ### August 19, 2020
 - [Squircley | SVG Squircle Maker](https://squircley.app/) - Create and export beautiful SVG squircles to use in your designs.
 ### August 18, 2020
