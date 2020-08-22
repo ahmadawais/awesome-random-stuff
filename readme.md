@@ -35,6 +35,9 @@
 
 
 
+
+### August 22, 2020
+- [The documentation system — Documentation system documentation](https://documentation.divio.com/) - Excellent guide to follow on how to document your software.
 ### August 20, 2020
 - [System UIcons](https://systemuicons.com/) - A free icon set designed for systems and products. Use how you want, without attribution.
 ### August 19, 2020
