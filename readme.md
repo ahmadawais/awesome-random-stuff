@@ -39,6 +39,7 @@
 
 ### August 28, 2020
 - [Like numbers? We got you.](https://restofworld.org/2020/stat-of-the-day/) - Try out our new infinity stats stack — a collection of the most fascinating, weird, and important numbers from around the (rest of) world.
+- [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/) - Tips, tricks and in-depth guides from the trenches
 ### August 22, 2020
 - [The documentation system — Documentation system documentation](https://documentation.divio.com/) - Excellent guide to follow on how to document your software.
 ### August 20, 2020
