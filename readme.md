@@ -37,6 +37,9 @@
 
 
 
+
+### September 3, 2020
+- [Shift Nudge – Interface Design Course](https://shiftnudge.com/) - The design on this course site is pretty fucking amazing.
 ### August 28, 2020
 - [Like numbers? We got you.](https://restofworld.org/2020/stat-of-the-day/) - Try out our new infinity stats stack — a collection of the most fascinating, weird, and important numbers from around the (rest of) world.
 - [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/) - Tips, tricks and in-depth guides from the trenches
