@@ -41,6 +41,7 @@
 
 ### September 13, 2020
 - [Gradient Magic - Fantastic and Unique CSS Gradients](https://www.gradientmagic.com/browse) - A Free Gallery of Fantastic and Unique CSS Gradients.
+- [lookup.design - ui examples (steve's recommendations)](https://lookup.design/) - Browse handpicked ui and ux design examples and find inspiration for your next website or app.
 ### September 3, 2020
 - [Shift Nudge – Interface Design Course](https://shiftnudge.com/) - The design on this course site is pretty fucking amazing.
 ### August 28, 2020
