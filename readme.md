@@ -43,6 +43,7 @@
 ### September 14, 2020
 - [tailblocks — Ready-to-use Tailwind CSS blocks](https://mertjf.github.io/tailblocks/) - Web site created using create-react-app
 - [Tailwind Typography Playground](https://tailwind-typography-playground.vercel.app/) - Web site created using create-react-app
+- [Tailwind Gradient Designer](https://tailwind-gradient-designer.csspost.com/) - Click generate done.
 ### September 13, 2020
 - [Gradient Magic - Fantastic and Unique CSS Gradients](https://www.gradientmagic.com/browse) - A Free Gallery of Fantastic and Unique CSS Gradients.
 - [lookup.design - ui examples (steve's recommendations)](https://lookup.design/) - Browse handpicked ui and ux design examples and find inspiration for your next website or app.
