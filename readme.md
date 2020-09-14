@@ -40,6 +40,9 @@
 
 
 
+
+### September 15, 2020
+- [Arwes - Sci-Fi UI Framework](https://arwes.dev/) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 ### September 14, 2020
 - [tailblocks — Ready-to-use Tailwind CSS blocks](https://mertjf.github.io/tailblocks/) - Web site created using create-react-app
 - [Tailwind Typography Playground](https://tailwind-typography-playground.vercel.app/) - Web site created using create-react-app
