@@ -44,6 +44,7 @@
 
 ### September 18, 2020
 - [MEE6 - The Discord Bot](https://mee6.xyz/) - Configure moderation, leveling, Twitch alerts, and much more with the most easy-to-use dashboard!
+- [YAGPDB](https://yagpdb.xyz/) - Yet Another General Purpose Discord Bot. Reaction to Accept Terms feature.
 ### September 15, 2020
 - [Arwes - Sci-Fi UI Framework](https://arwes.dev/) - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps
 ### September 14, 2020
