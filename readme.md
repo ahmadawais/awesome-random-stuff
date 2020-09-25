@@ -44,6 +44,9 @@
 
 
 
+
+### September 26, 2020
+- [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it. Stop hating and start learning.
 ### September 23, 2020
 - [Schema.org/VideoObject ](https://codepen.io/thuijssoon/pen/bEgBLK) - Generator for Vimeo
 - [Schema.org/VideoObject](https://codepen.io/ahmadawais/pen/yLOGqpm) - Generate valid schema JSON+LD for Vimeo
