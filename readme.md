@@ -45,6 +45,9 @@
 
 
 
+
+### October 4, 2020
+- [Brands Companies](https://symbols.radicasoftware.com/72/brands-0-9) - SVG Logos
 ### September 26, 2020
 - [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it. Stop hating and start learning.
 ### September 23, 2020
