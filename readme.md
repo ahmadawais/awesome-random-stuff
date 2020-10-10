@@ -50,6 +50,7 @@
 
 ### October 10, 2020
 - [Tailwind Ink | AI color palette generator for Tailwindcss](https://tailwind.ink/?ref=producthunt) - A tool for creating new color shades based on a neural network and trained with the Tailwindcss palette.
+- [Radix Icons](https://icons.modulz.app/?ref=producthunt) - A crisp set of 15×15 icons designed by the Modulz team.
 ### October 5, 2020
 - [Search for royalty free music by Kevin MacLeod](https://incompetech.filmmusic.io/search) - 100% ROYALTY-free music: ✓ Free of charge for all ✓ Youtube videos ✓ Online advertising ✓ Product films ✓ Company films ✓ Websites ✓ Download without registration and use immediately!
 ### October 4, 2020
