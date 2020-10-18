@@ -48,6 +48,9 @@
 
 
 
+
+### October 18, 2020
+- [Shapefest™ - A massive library of free 3D shapes](https://www.shapefest.com/) - A massive free library of beautifully rendered 3D shapes. 160,000+ high resolution PNG images in one cohesive library.
 ### October 10, 2020
 - [Tailwind Ink | AI color palette generator for Tailwindcss](https://tailwind.ink/?ref=producthunt) - A tool for creating new color shades based on a neural network and trained with the Tailwindcss palette.
 - [Radix Icons](https://icons.modulz.app/?ref=producthunt) - A crisp set of 15×15 icons designed by the Modulz team.
