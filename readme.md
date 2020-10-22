@@ -49,6 +49,9 @@
 
 
 
+
+### October 22, 2020
+- [Svg Wave - A free beautiul & SVG wave Generator.](https://svgwave.in/) - SVG Wave is a minimal svg wave generator with lot of customization. It lets you abiltiy to generate and export pngs and svgs of beautiful waves. SVG wave also lets you layer multiple waves. Create SVGs for your website designs.
 ### October 18, 2020
 - [Shapefest™ - A massive library of free 3D shapes](https://www.shapefest.com/) - A massive free library of beautifully rendered 3D shapes. 160,000+ high resolution PNG images in one cohesive library.
 ### October 10, 2020
