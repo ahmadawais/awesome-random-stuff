@@ -50,6 +50,9 @@
 
 
 
+
+### October 24, 2020
+- [PatternPad - Create beautiful patterns for presentations, social media or branding.](https://patternpad.com/) - PatternPad offers unlimited unique pattern designs that fit your style. Ideal for branding, presentations, social media posts or customising products.
 ### October 22, 2020
 - [Svg Wave - A free beautiul & SVG wave Generator.](https://svgwave.in/) - SVG Wave is a minimal svg wave generator with lot of customization. It lets you abiltiy to generate and export pngs and svgs of beautiful waves. SVG wave also lets you layer multiple waves. Create SVGs for your website designs.
 ### October 18, 2020
