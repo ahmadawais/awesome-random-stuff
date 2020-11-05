@@ -55,6 +55,7 @@
 ### November 5, 2020
 - [Undesign | Collection of free design tools and resources for makers, developers and designers](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers
 - [Free Profile Pic Maker | Make an awesome profile picture from any photo](https://pfpmaker.com/?ref=producthunt) - Upload your photo and create profile picture which will give you 14 times more visits & 36 times more chances to receive a message with a professional headshot
+- [Free Typography Logo Maker — Design a logo in seconds!](https://formito.com/tools/logo?ref=producthunt) - Design a free typography logo for your business, product, or brand using an easy to use online logo maker tool. Choose from hundreds of fonts, preview light and dark version of your logo, and then export SVG and PNG versions.
 ### October 24, 2020
 - [PatternPad - Create beautiful patterns for presentations, social media or branding.](https://patternpad.com/) - PatternPad offers unlimited unique pattern designs that fit your style. Ideal for branding, presentations, social media posts or customising products.
 ### October 22, 2020
