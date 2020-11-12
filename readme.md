@@ -55,6 +55,7 @@
 
 ### November 12, 2020
 - [Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place](https://cssgradient.io/gradient-backgrounds/) - Discover the best gradient backgrounds from  a curated collection of the ultimate list of gradient sites. With 1000+ gradients, it's easy to find the 👌 color!
+- [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) - My go to SVG Optimizer.
 ### November 5, 2020
 - [Undesign | Collection of free design tools and resources for makers, developers and designers](https://undesign.learn.uno/) - Collection of free design tools and resources for makers, developers and designers
 - [Free Profile Pic Maker | Make an awesome profile picture from any photo](https://pfpmaker.com/?ref=producthunt) - Upload your photo and create profile picture which will give you 14 times more visits & 36 times more chances to receive a message with a professional headshot
