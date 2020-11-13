@@ -53,6 +53,9 @@
 
 
 
+
+### November 13, 2020
+- [API for Web Icons | SVGBox.net](https://svgbox.net/) - SVG Icons and patterns, served/modified as image source URLs. Simple.
 ### November 12, 2020
 - [Gradient Backgrounds – 🌈 The Best Gradient Sites All in One Place](https://cssgradient.io/gradient-backgrounds/) - Discover the best gradient backgrounds from  a curated collection of the ultimate list of gradient sites. With 1000+ gradients, it's easy to find the 👌 color!
 - [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) - My go to SVG Optimizer.
