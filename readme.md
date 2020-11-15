@@ -54,6 +54,9 @@
 
 
 
+
+### November 15, 2020
+- [Cold email templates • Hunter](https://hunter.io/templates?ref=producthunt) - Directory of best-performing cold email templates. Filter hundreds of templates by category and start your email outreach in minutes.
 ### November 13, 2020
 - [API for Web Icons | SVGBox.net](https://svgbox.net/) - SVG Icons and patterns, served/modified as image source URLs. Simple.
 ### November 12, 2020
