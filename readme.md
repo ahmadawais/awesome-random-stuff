@@ -57,6 +57,7 @@
 
 ### November 15, 2020
 - [Cold email templates • Hunter](https://hunter.io/templates?ref=producthunt) - Directory of best-performing cold email templates. Filter hundreds of templates by category and start your email outreach in minutes.
+- [AI Image Upscaler - Enlarge Images & Photos Online for Free](https://icons8.com/upscaler?ref=producthunt) - Free online smart upscaler software to enlarge images and photos (JPG, PNG) without losing quality. Enlarge and enhance pictures automatically using AI
 ### November 13, 2020
 - [API for Web Icons | SVGBox.net](https://svgbox.net/) - SVG Icons and patterns, served/modified as image source URLs. Simple.
 ### November 12, 2020
