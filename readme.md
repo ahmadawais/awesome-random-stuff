@@ -55,6 +55,9 @@
 
 
 
+
+### November 17, 2020
+- [uxtoast | Learn the fundamentals of UX & UI Design](https://www.uxtoast.com/) - Learn the fundamentals of UX & UI Design, including design laws and principles, user research, and design processes.
 ### November 15, 2020
 - [Cold email templates • Hunter](https://hunter.io/templates?ref=producthunt) - Directory of best-performing cold email templates. Filter hundreds of templates by category and start your email outreach in minutes.
 - [AI Image Upscaler - Enlarge Images & Photos Online for Free](https://icons8.com/upscaler?ref=producthunt) - Free online smart upscaler software to enlarge images and photos (JPG, PNG) without losing quality. Enlarge and enhance pictures automatically using AI
