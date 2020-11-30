@@ -56,6 +56,9 @@
 
 
 
+
+### November 30, 2020
+- [Maizzle - Framework for Rapid Email Prototyping](https://maizzle.com/) - Maizzle is a framework that helps you quickly build HTML emails with Tailwind CSS and advanced, email-specific post-processing.
 ### November 17, 2020
 - [uxtoast | Learn the fundamentals of UX & UI Design](https://www.uxtoast.com/) - Learn the fundamentals of UX & UI Design, including design laws and principles, user research, and design processes.
 ### November 15, 2020
