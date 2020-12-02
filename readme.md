@@ -57,6 +57,9 @@
 
 
 
+
+### December 2, 2020
+- [GrowthList - Never Miss a Growth Opportunity](https://www.thegrowthlist.co/) - GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !
 ### November 30, 2020
 - [Maizzle - Framework for Rapid Email Prototyping](https://maizzle.com/) - Maizzle is a framework that helps you quickly build HTML emails with Tailwind CSS and advanced, email-specific post-processing.
 ### November 17, 2020
