@@ -58,6 +58,9 @@
 
 
 
+
+### December 3, 2020
+- [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos - edent/SuperTinyIcons
 ### December 2, 2020
 - [GrowthList - Never Miss a Growth Opportunity](https://www.thegrowthlist.co/) - GrowthList is the go-to resource hub for tech-savvy marketers in fast-growing companies. Find hundred of Growth Hacks to boost your startup !
 - [Domainr](https://domainr.com/) - Fast, free, domain name search, short URLs, new gTLDs, whois
