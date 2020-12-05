@@ -60,6 +60,9 @@
 
 
 
+
+### December 5, 2020
+- [DEVICON | All programming languages and development tools related icons font](https://devicon.dev/) - devicon aims to gather all logos representing development languages and tools in one font.
 ### December 4, 2020
 - [Welcome to Cast](https://tryca.st/) - Studio. Editor. Host. — Everything for a podcast needs no downloads, no guest logins — only 10 USD a month.
 - [UseMySound](https://usemysound.com/?ref=producthunt#rec254199922) - Royalty free music weekly (music for videos, ads, games & podcasts).
