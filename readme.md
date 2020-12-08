@@ -61,6 +61,9 @@
 
 
 
+
+### December 8, 2020
+- [Data Gif Maker](https://datagifmaker.withgoogle.com/) - I’ve created an animated GIF using Data Gif Maker by Google News Labs. Create your own at datagifmaker.withgoogle.com
 ### December 5, 2020
 - [DEVICON | All programming languages and development tools related icons font](https://devicon.dev/) - devicon aims to gather all logos representing development languages and tools in one font.
 - [Checklist generator](https://checklistgenerator.co/) - Create checklists for free and host them wherever you want.
