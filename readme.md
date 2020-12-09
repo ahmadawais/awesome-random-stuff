@@ -62,6 +62,9 @@
 
 
 
+
+### December 9, 2020
+- [Typefully](https://typefully.app/?ref=producthunt) - Write great Twitter threads..
 ### December 8, 2020
 - [Data Gif Maker](https://datagifmaker.withgoogle.com/) - I’ve created an animated GIF using Data Gif Maker by Google News Labs. Create your own at datagifmaker.withgoogle.com
 ### December 5, 2020
