@@ -69,6 +69,7 @@
 ### December 21, 2020
 - [Rihlinator](https://rihlinator.timo.sh/) - Beautiful letter design
 - [Moiva.io](https://moiva.io/?ck_subscriber_id=478721850) - Javascript libraries and frameworks comparison side by side. Visual with charts and graphs. Multiple metrics. Data from Github, NPM, Google Trends, ThoughtWorks Tech Radar, etc.
+- [PS Tunnel](https://pstunnel.com/) - Edit Shopify images in Photoshop #tailwind
 ### December 15, 2020
 - [What to Tweet?](https://whattotweet.com/) - Ideas on what to tweet.
 - [Cover Art](https://coverart.xyz/) - Discover the world’s best podcast cover art
