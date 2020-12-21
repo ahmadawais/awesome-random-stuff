@@ -65,6 +65,9 @@
 
 
 
+
+### December 21, 2020
+- [Rihlinator](https://rihlinator.timo.sh/) - Beautiful letter design
 ### December 15, 2020
 - [What to Tweet?](https://whattotweet.com/) - Ideas on what to tweet.
 - [Cover Art](https://coverart.xyz/) - Discover the world’s best podcast cover art
