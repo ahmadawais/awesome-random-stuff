@@ -66,6 +66,9 @@
 
 
 
+
+### December 26, 2020
+- [Home - The A11Y Project](https://www.a11yproject.com/) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 ### December 21, 2020
 - [Rihlinator](https://rihlinator.timo.sh/) - Beautiful letter design
 - [Moiva.io](https://moiva.io/?ck_subscriber_id=478721850) - Javascript libraries and frameworks comparison side by side. Visual with charts and graphs. Multiple metrics. Data from Github, NPM, Google Trends, ThoughtWorks Tech Radar, etc.
