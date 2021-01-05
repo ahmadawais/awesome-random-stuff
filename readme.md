@@ -68,6 +68,9 @@
 
 
 
+
+### January 5, 2021
+- [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/?ck_subscriber_id=193935667) - Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 300.000+ Free SVG Vectors and Icons. #svg #icons #free
 ### December 28, 2020
 - [Tally forms](https://tally.so/) - The simplest way to create beautiful forms & surveys, for free. Without knowing how to code! #design #free
 ### December 26, 2020
