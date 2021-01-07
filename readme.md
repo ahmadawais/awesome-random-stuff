@@ -69,6 +69,9 @@
 
 
 
+
+### January 7, 2021
+- [VS Code Performance – How to Optimize Visual Studio Code and Choose the "Best" Extensions](https://www.freecodecamp.org/news/optimize-vscode-performance-best-extensions/) - Eperf
 ### January 5, 2021
 - [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/?ck_subscriber_id=193935667) - Free Vectors and Icons in SVG format. ✅ Download free mono or multi color vectors for commercial use. Search in 300.000+ Free SVG Vectors and Icons. #svg #icons #free
 ### December 28, 2020
