@@ -70,6 +70,9 @@
 
 
 
+
+### January 8, 2021
+- [Metrics](https://metrics.lecoq.io/) - An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
 ### January 7, 2021
 - [VS Code Performance – How to Optimize Visual Studio Code and Choose the "Best" Extensions](https://www.freecodecamp.org/news/optimize-vscode-performance-best-extensions/) - Eperf
 ### January 5, 2021
