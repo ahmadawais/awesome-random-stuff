@@ -74,6 +74,7 @@
 
 ### January 13, 2021
 - [A11y Coffee](https://a11y.coffee/) - An intro to what web accessibility is, why it's important, and the guiding principles behind accessibility standards.
+- [Best of JavaScript](https://bestofjs.org/) - Check out the most popular open-source projects and the latest trends about the web platform and Node.js.
 ### January 8, 2021
 - [Metrics](https://metrics.lecoq.io/) - An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
 ### January 7, 2021
