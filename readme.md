@@ -73,7 +73,7 @@
 
 
 ### January 13, 2021
-- [Homepage | A11y Coffee](https://a11y.coffee/) - An intro to what web accessibility is, why it's important, and the guiding principles behind accessibility standards.
+- [A11y Coffee](https://a11y.coffee/) - An intro to what web accessibility is, why it's important, and the guiding principles behind accessibility standards.
 ### January 8, 2021
 - [Metrics](https://metrics.lecoq.io/) - An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !
 ### January 7, 2021
