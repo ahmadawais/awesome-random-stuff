@@ -72,6 +72,9 @@
 
 
 
+
+### January 14, 2021
+- [Hypercolor - Tailwind CSS Gradient Palette](https://hypercolor.dev/#gradients) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS library.
 ### January 13, 2021
 - [A11y Coffee](https://a11y.coffee/) - An intro to what web accessibility is, why it's important, and the guiding principles behind accessibility standards.
 - [Best of JavaScript](https://bestofjs.org/) - Check out the most popular open-source projects and the latest trends about the web platform and Node.js.
