@@ -77,6 +77,7 @@
 - [Hypercolor - Tailwind CSS Gradient Palette](https://hypercolor.dev/#gradients) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS library.
 - [webextension-toolbox/webextension-toolbox: Small CLI toolbox for cross-browser WebExtension development](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development - webextension-toolbox/webextension-toolbox
 - [extend-chrome/js-react-boilerplate: Chrome extension boilerplate with JavaScript and React](https://github.com/extend-chrome/js-react-boilerplate) - Chrome extension boilerplate with JavaScript and React - extend-chrome/js-react-boilerplate
+- [@extend-chrome](https://github.com/extend-chrome?type=source) - Excellent Chrome extension resources for developers.
 ### January 13, 2021
 - [A11y Coffee](https://a11y.coffee/) - An intro to what web accessibility is, why it's important, and the guiding principles behind accessibility standards.
 - [Best of JavaScript](https://bestofjs.org/) - Check out the most popular open-source projects and the latest trends about the web platform and Node.js.
