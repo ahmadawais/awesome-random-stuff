@@ -73,6 +73,9 @@
 
 
 
+
+### January 18, 2021
+- [Teenyicons — Tiny minimal 1px icons](https://teenyicons.com/?ref=builtwithtailwind.com) - An elegant icon set by Anja van Staden with more than a thousand icons.
 ### January 14, 2021
 - [Hypercolor - Tailwind CSS Gradient Palette](https://hypercolor.dev/#gradients) - A curated collection of beautiful premade gradients using default colors from the Tailwind CSS library.
 - [webextension-toolbox/webextension-toolbox: Small CLI toolbox for cross-browser WebExtension development](https://github.com/webextension-toolbox/webextension-toolbox) - Small CLI toolbox for cross-browser WebExtension development - webextension-toolbox/webextension-toolbox
