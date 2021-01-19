@@ -74,6 +74,9 @@
 
 
 
+
+### January 19, 2021
+- [Wilson Miner · Staff Design](https://staff.design/wilson-miner) - Navigating the individual contributor career path #design
 ### January 18, 2021
 - [Teenyicons — Tiny minimal 1px icons](https://teenyicons.com/?ref=builtwithtailwind.com) - An elegant icon set by Anja van Staden with more than a thousand icons.
 ### January 14, 2021
