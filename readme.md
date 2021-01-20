@@ -75,6 +75,9 @@
 
 
 
+
+### January 20, 2021
+- [use-eazy-auth: a library for simple auth management in React | Inmagik homepage](https://inmagik.it/blog/use-eazy-auth) - INMAGIK is an indipendent software development agency shipping open source based solutions for information management and visualization.
 ### January 19, 2021
 - [Wilson Miner · Staff Design](https://staff.design/wilson-miner) - Navigating the individual contributor career path #design
 - [Cloudlyn](https://cloudlyn.com/) - The cloud for Devops & Microservices #docker
