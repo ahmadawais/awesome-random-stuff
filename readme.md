@@ -76,6 +76,9 @@
 
 
 
+
+### January 22, 2021
+- [Polotno Studio - Make graphical designs](https://studio.polotno.dev/?ref=producthunt) - Free online design editor. Create images for social media, youtube previews, facebook covers
 ### January 20, 2021
 - [use-eazy-auth: a library for simple auth management in React | Inmagik homepage](https://inmagik.it/blog/use-eazy-auth) - INMAGIK is an indipendent software development agency shipping open source based solutions for information management and visualization.
 ### January 19, 2021
