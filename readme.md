@@ -77,6 +77,9 @@
 
 
 
+
+### January 27, 2021
+- [reMarkable](https://remarkable.com/) - Replace your notebooks and printed documents with the only tablet that feels like paper.
 ### January 22, 2021
 - [Polotno Studio - Make graphical designs](https://studio.polotno.dev/?ref=producthunt) - Free online design editor. Create images for social media, youtube previews, facebook covers
 ### January 20, 2021
