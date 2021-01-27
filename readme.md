@@ -80,6 +80,7 @@
 
 ### January 27, 2021
 - [reMarkable](https://remarkable.com/) - Replace your notebooks and printed documents with the only tablet that feels like paper.
+- [LG 49WL95C-W ](https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor?cmpid=social|HE|Monitor|PROJ_IRM|49WL95C|Youtube|AliAbdaal&utm_source=Youtube&utm_medium=IRM&utm_campaign=49WL95C|AliAbdaal) - LG 49WL95C-W 49 Inch 32:9 UltraWide Dual QHD IPS Curved LED Monitor with HDR 10 (49WL95C-W). #led #office #hardware
 ### January 22, 2021
 - [Polotno Studio - Make graphical designs](https://studio.polotno.dev/?ref=producthunt) - Free online design editor. Create images for social media, youtube previews, facebook covers
 ### January 20, 2021
