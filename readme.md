@@ -83,6 +83,7 @@
 - [Free Music For YouTube Videos & Creators • Uppbeat](https://uppbeat.io/) - Download the best copyright free music from the world's hottest beatmakers and indie artists. Create your free account & start downloading now. #music #audio
 - [Gleek.io](https://www.gleek.io/?ref=producthunt) - Diagram maker for developers
 - [Free Stock Footage | Royalty Free Videos for Download | Coverr](https://coverr.co/?ref=producthunt) - Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project. No attribution required.
+- [The Best Places to Post Your Startup](https://jakeprins.com/blog/the-best-places-to-post-your-startup) - I write articles and make digital products like RaterFox, React Milkshake, MakerMove, FlowReads, RemoteRocket and the Serverless SaaS Boilerplate
 ### January 27, 2021
 - [reMarkable](https://remarkable.com/) - Replace your notebooks and printed documents with the only tablet that feels like paper.
 - [LG 49WL95C-W ](https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor?cmpid=social|HE|Monitor|PROJ_IRM|49WL95C|Youtube|AliAbdaal&utm_source=Youtube&utm_medium=IRM&utm_campaign=49WL95C|AliAbdaal) - LG 49WL95C-W 49 Inch 32:9 UltraWide Dual QHD IPS Curved LED Monitor with HDR 10 (49WL95C-W). #led #office #hardware
