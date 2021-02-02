@@ -81,6 +81,9 @@
 
 
 
+
+### February 2, 2021
+- [Sleeknote](https://sleeknote.com/) - A Popup Builder. #copy #marketing #landingpage
 ### February 1, 2021
 - [API Directory | ProgrammableWeb](https://www.programmableweb.com/apis/directory) - View our API Directory, the largest Application Programming Interface repository on the web
 ### January 31, 2021
