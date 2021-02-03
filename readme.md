@@ -85,6 +85,7 @@
 
 ### February 3, 2021
 - [Glassmorphism CSS Generator](https://glassmorphism.com/?ref=producthunt) - Glassmorphism is a unified name for the popular Frosted Glass aesthetic.
+- [Save Code VS Code Extension](https://www.thiscodeworks.com/extension/vscode?ref=producthunt) - Save code snippets in the cloud & organize them into collections. Using our Chrome & VS Code extensions you can save code snippets online with just one-click!
 ### February 2, 2021
 - [Sleeknote](https://sleeknote.com/) - A Popup Builder. #copy #marketing #landingpage
 ### February 1, 2021
