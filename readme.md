@@ -90,6 +90,7 @@
 ### March 23, 2021
 - [tabExtend](https://www.tabextend.com/pricing) - Clear and save your tabs in an efficient way. #Design #icons #gradient #faq
 - [tabExtend - Clear and save your tabs in an efficient way](https://www.tabextend.com/) - Be more productive by quickly decluttering your browser. Use drag and drop to clear your tabs or one-click save them all. Add notes and to-dos, save text-snippets, sync and share all in your new tab
+- [Modular conversion, encoding and encryption online — Cryptii](https://cryptii.com/) - Web app offering modular conversion, encoding and encryption online. Translations are done in the browser without any server interaction. This is an Open Source project, code licensed MIT.
 ### February 24, 2021
 - [Key-Short-Image](https://monsterbrain.github.io/keyboard-shortcut-image-generator/) - Keyboard Shortcut Image Generator
 ### February 20, 2021
