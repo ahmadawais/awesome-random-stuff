@@ -90,6 +90,7 @@
 
 ### March 26, 2021
 - [Approximated - The API for your virtual hosts](https://approximated.app/) - Add custom domains & subdomains to any app with one easy API.
+- [Approximated - The API for your virtual hosts](https://approximated.app/) - Add custom domains & subdomains to any app with one easy API. #SaaS #SSL
 ### March 23, 2021
 - [tabExtend](https://www.tabextend.com/pricing) - Clear and save your tabs in an efficient way. #Design #icons #gradient #faq
 - [tabExtend - Clear and save your tabs in an efficient way](https://www.tabextend.com/) - Be more productive by quickly decluttering your browser. Use drag and drop to clear your tabs or one-click save them all. Add notes and to-dos, save text-snippets, sync and share all in your new tab
