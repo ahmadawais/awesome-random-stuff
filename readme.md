@@ -88,6 +88,9 @@
 
 
 
+
+### April 2, 2021
+- [Conic.css](https://www.conic.style/) - Nice, simple conic gradients.
 ### March 26, 2021
 - [Approximated - The API for your virtual hosts](https://approximated.app/) - Add custom domains & subdomains to any app with one easy API.
 - [Approximated - The API for your virtual hosts](https://approximated.app/) - Add custom domains & subdomains to any app with one easy API. #SaaS #SSL
