@@ -91,6 +91,9 @@
 
 
 
+
+### April 29, 2021
+- [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/) - Free, “do wtf you want with” pixel-perfect icons. New icons added every week. #icons #free 
 ### April 16, 2021
 - [BridgeZero - Compare Visa Programs](https://bridgezero.com/) - A ranking of the world's best visa and residency programs.
 ### April 14, 2021
