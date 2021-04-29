@@ -94,6 +94,7 @@
 
 ### April 29, 2021
 - [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/) - Free, “do wtf you want with” pixel-perfect icons. New icons added every week. #icons #free 
+- [How to convince your boss to use Tailwind CSS | Hayden Cleary](https://haydencleary.com/en/blog/how-to-convince-your-boss-to-use-tailwind-css) - Everything you need to adopt the hot new CSS framework in your company.
 ### April 16, 2021
 - [BridgeZero - Compare Visa Programs](https://bridgezero.com/) - A ranking of the world's best visa and residency programs.
 ### April 14, 2021
