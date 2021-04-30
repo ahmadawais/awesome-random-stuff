@@ -92,6 +92,9 @@
 
 
 
+
+### May 1, 2021
+- [Face Generator – Generate Faces Online Using AI](https://generated.photos/face-generator) - Create a face using our AI face generator. Choose age, head pose, skin tone, emotion, sex and generate a baby or adult face online.
 ### April 29, 2021
 - [Iconic — Free “do wtf you want with” pixel-perfect icons](https://iconic.app/) - Free, “do wtf you want with” pixel-perfect icons. New icons added every week. #icons #free 
 - [How to convince your boss to use Tailwind CSS | Hayden Cleary](https://haydencleary.com/en/blog/how-to-convince-your-boss-to-use-tailwind-css) - Everything you need to adopt the hot new CSS framework in your company.
