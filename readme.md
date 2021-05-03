@@ -93,6 +93,9 @@
 
 
 
+
+### May 3, 2021
+- [readme.so - Easiest Way to Create A README](https://readme.so/editor) - Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories
 ### May 1, 2021
 - [Face Generator – Generate Faces Online Using AI](https://generated.photos/face-generator) - Create a face using our AI face generator. Choose age, head pose, skin tone, emotion, sex and generate a baby or adult face online.
 - [QingWei-Li/notea: ](https://github.com/QingWei-Li/notea) - 📒 Self hosted note taking app stored on S3 + Vercel + Netlify.
