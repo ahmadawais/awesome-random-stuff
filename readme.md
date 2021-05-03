@@ -94,6 +94,9 @@
 
 
 
+
+### May 4, 2021
+- [Free SVG collections for web | Snoweb](https://www.snoweb-svg.com/en/) - Get free collections of SVGs animated built in HTML and CSS.    Choose and embed web-optimized SVGs in your HTML or with Django.
 ### May 3, 2021
 - [readme.so - Easiest Way to Create A README](https://readme.so/editor) - Use readme.so's markdown editor and ready made templates to easily create a simple README for your repositories
 ### May 1, 2021
