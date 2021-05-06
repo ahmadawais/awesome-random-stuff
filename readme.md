@@ -95,6 +95,9 @@
 
 
 
+
+### May 7, 2021
+- [Slidev](https://sli.dev/) - Presentation slides for developers
 ### May 4, 2021
 - [Free SVG collections for web | Snoweb](https://www.snoweb-svg.com/en/) - Get free collections of SVGs animated built in HTML and CSS.    Choose and embed web-optimized SVGs in your HTML or with Django.
 - [Launch your own dropshipping store with Next.js, Printful, and Snipcart](https://headlessdropshipping.com/) - Build your own Headless eCommerce storefront with Next.js and Snipcart, and deliver swag powered by Printful. End to end commerce, styled using TailwindCSS and deployed on Vercel.
