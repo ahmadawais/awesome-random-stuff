@@ -4,6 +4,7 @@
 
 ### May 15, 2021
 - [📊 Tweetable Charts](https://tweetable-charts.agiliq.com/) - Create Text based Charts and Visuals you can embed on Twitter.
+- [Unicode progress bars](https://changaco.oy.lc/unicode-progress-bars/) - Create a text based progress bar.
 ### May 13, 2021
 - [Figmaster](https://www.figmaster.co/) - Figmaster plugin is a workbook for Figma that contains a large set of exercises on how to build your modern design system from scratch. #design
 - [Iconoir | #Free #Icons](https://iconoir.com/) - The Simple and Definitive hand-crafted SVG Icons Library.
