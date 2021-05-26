@@ -3,6 +3,9 @@
 > Collection of interesting & awesome random stuff I find on the World Wide Web.
 
 
+
+### May 26, 2021
+- [Bloby](https://bloby.co/) - Generate random SVG shapes with Bloby.
 ### May 17, 2021
 - [Firefoo](https://firefoo.app/) - A Powerful GUI Client for Firebase Firestore.
 ### May 15, 2021
