@@ -5,6 +5,9 @@
 
 
 
+
+### May 30, 2021
+- [Avatar generator playground - Boring Avatars](https://boringavatars.com/) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 ### May 29, 2021
 - [HammerSpoon Intro:](https://zzamboni.org/post/using-spoons-in-hammerspoon/#:~:text=To%20install%20the%20spoon%2C%20download,hammerspoon%2FSpoons%2F%20.) - Using Spoons in Hammerspoon
 ### May 26, 2021
