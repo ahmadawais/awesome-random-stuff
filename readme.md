@@ -6,6 +6,9 @@
 
 
 
+
+### June 5, 2021
+- [Generating beautiful Open Graph images with Node.js | Codepunkt](https://codepunkt.de/writing/generating-beautiful-open-graph-images-with-nodejs/) - Open graph images provide nice previews when sharing your website. This article explains how to automatically generate open graph images with Node.js and integrate the results into a Gatsby site.
 ### May 30, 2021
 - [Avatar generator playground - Boring Avatars](https://boringavatars.com/) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based, round avatars from any username and color palette.
 - [Gradient King](https://gradient-king.vercel.app/) - Never ever run out of gradients! 
