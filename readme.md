@@ -7,6 +7,9 @@
 
 
 
+
+### June 16, 2021
+- [Cartoon Selfie-Cutout.pro](https://www.cutout.pro/cartoonAvatar.html) - cutout.pro -  online AI neural style transfer with one-click, generating avatars, portraits, family photos, and videos with styles including  impressionism, oil painting, watercolor, ink and other styles. Ice movement, water flow, flames, metal, any picture style can be transferred
 ### June 5, 2021
 - [Generating beautiful Open Graph images with Node.js | Codepunkt](https://codepunkt.de/writing/generating-beautiful-open-graph-images-with-nodejs/) - Open graph images provide nice previews when sharing your website. This article explains how to automatically generate open graph images with Node.js and integrate the results into a Gatsby site.
 ### May 30, 2021
