@@ -2,6 +2,9 @@
 
 > Collection of interesting & awesome random stuff I find on the World Wide Web.
 
+
+### July 27, 2021
+- [Justfields](https://justfields.com/) - The headacheless CMS for small projects. #awesome #jamstack 
 ### July 17, 2021
 - [GitHub Users Global Ranking](https://wangchujiang.com/github-rank/) - By followers.
 ### July 9, 2021
