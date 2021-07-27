@@ -5,6 +5,7 @@
 
 ### July 27, 2021
 - [Justfields](https://justfields.com/) - The headacheless CMS for small projects. #awesome #jamstack 
+- [A Complete Guide To Accessible Front-End Components — Smashing Magazine](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) - An up-to-date collection of accessible front-end components: accordions, form styles, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, "skip" links, SVGs, tabs, tables, toggles and tooltips.
 ### July 17, 2021
 - [GitHub Users Global Ranking](https://wangchujiang.com/github-rank/) - By followers.
 ### July 9, 2021
