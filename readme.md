@@ -6,6 +6,7 @@
 
 ### August 13, 2021
 - [Openby.design](https://openby.design/) - Free & Open Source Design Assets Custom crafted free UI design resources, for personal and commercial projects. No attribution is required. #free #foss
+- [christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum. - christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.
 ### July 27, 2021
 - [Justfields](https://justfields.com/) - The headacheless CMS for small projects. #awesome #jamstack 
 - [A Complete Guide To Accessible Front-End Components — Smashing Magazine](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) - An up-to-date collection of accessible front-end components: accordions, form styles, dark mode, data charts, date pickers, form styles, navigation menu, modals, radio buttons, "skip" links, SVGs, tabs, tables, toggles and tooltips.
