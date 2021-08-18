@@ -4,6 +4,9 @@
 
 
 
+
+### August 18, 2021
+- [MakerLead — Discover new startups making real revenue](https://makerlead.com/?ref=producthunt) - Analyze Stripe-verified revenue metrics from early stage startups #open
 ### August 13, 2021
 - [Openby.design](https://openby.design/) - Free & Open Source Design Assets Custom crafted free UI design resources, for personal and commercial projects. No attribution is required. #free #foss
 - [christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum. - christiannaths/redacted-font: Keep your wireframes free of distracting Lorem Ipsum.
