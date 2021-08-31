@@ -11,6 +11,7 @@
 
 ### September 1, 2021
 - [ProgrammerHumor.io - Best programming memes on the internet](https://programmerhumor.io/) - Only a few can understand the humor of programmers, are you a programmer? Checkout the best programming memes on ProgrammerHumor.io
+- [The Coding Love - Programmer humor: gifs, memes, jokes](https://thecodinglove.com/) - The Coding Love - Programmer humor: gifs, memes, jokes
 ### August 26, 2021
 - [Create beautiful images of your code](https://ray.so/) - Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window. #code #screenshot
 - [Poet.so | Create Beautiful Images of Twitter Posts](https://poet.so/) - Capture and share Twitter posts as beautiful images. #screenshot #twitter
