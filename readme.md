@@ -15,6 +15,7 @@
 - [“Add to Calendar” Links for Google Calendar, Outlook, ICS](https://www.labnol.org/apps/calendar.html?ref=producthunt&ck_subscriber_id=989097516) - Create Add to Calendar links for adding event links in emails, websites and newsletters. Works with Google Calendar, Microsoft Office 365, Outlook, Yahoo Calendar and Apple iCalendar .ics files.
 - [Nævner](https://naevner.com/?ref=producthunt) - Natural language color descriptions, generated from hex color codes. Press: R to pick a random color.
 - [Stock-music Royalty-Free Music - 300k+ tracks | Mubert Render](https://mubert.com/render/Playlists/Stock-music) - Looking For Product-Hunt Royalty-Free Music For Your Project? ⚡ Come Explore Our Vast Array Of Royalty-Free Product-Hunt Music In Our Limitless Library ⏩
+- [Slantt.co](https://slantt.co/editor/tiles) - Design professional isometric illustrations for your website in minutes
 ### September 2, 2021
 - [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
 ### September 1, 2021
