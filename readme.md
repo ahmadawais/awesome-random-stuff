@@ -10,6 +10,9 @@
 
 
 
+
+### September 6, 2021
+- [“Add to Calendar” Links for Google Calendar, Outlook, ICS](https://www.labnol.org/apps/calendar.html?ref=producthunt&ck_subscriber_id=989097516) - Create Add to Calendar links for adding event links in emails, websites and newsletters. Works with Google Calendar, Microsoft Office 365, Outlook, Yahoo Calendar and Apple iCalendar .ics files.
 ### September 2, 2021
 - [Reqres - A hosted REST-API ready to respond to your AJAX requests](https://reqres.in/) - A hosted REST-API ready to respond to your AJAX requests
 ### September 1, 2021
