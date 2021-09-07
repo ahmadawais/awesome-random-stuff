@@ -14,6 +14,7 @@
 
 ### September 7, 2021
 - [Mixfont | A modern font generator](https://www.mixfont.com/shadows?ref=producthunt) - Whether you're designing a website or writing a paper, Mixfont is simple way to choose beautiful fonts that work well together.
+- [Ready Player Me - Create a Full-Body 3D Avatar From a Photo](https://readyplayer.me/avatar) - Full-body character creator for the metaverse. Make a 3D avatar from a photo and use it in apps and games like VRChat and LIV
 ### September 6, 2021
 - [“Add to Calendar” Links for Google Calendar, Outlook, ICS](https://www.labnol.org/apps/calendar.html?ref=producthunt&ck_subscriber_id=989097516) - Create Add to Calendar links for adding event links in emails, websites and newsletters. Works with Google Calendar, Microsoft Office 365, Outlook, Yahoo Calendar and Apple iCalendar .ics files.
 - [Nævner](https://naevner.com/?ref=producthunt) - Natural language color descriptions, generated from hex color codes. Press: R to pick a random color.
