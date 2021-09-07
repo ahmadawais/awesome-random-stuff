@@ -11,6 +11,9 @@
 
 
 
+
+### September 7, 2021
+- [Mixfont | A modern font generator](https://www.mixfont.com/shadows?ref=producthunt) - Whether you're designing a website or writing a paper, Mixfont is simple way to choose beautiful fonts that work well together.
 ### September 6, 2021
 - [“Add to Calendar” Links for Google Calendar, Outlook, ICS](https://www.labnol.org/apps/calendar.html?ref=producthunt&ck_subscriber_id=989097516) - Create Add to Calendar links for adding event links in emails, websites and newsletters. Works with Google Calendar, Microsoft Office 365, Outlook, Yahoo Calendar and Apple iCalendar .ics files.
 - [Nævner](https://naevner.com/?ref=producthunt) - Natural language color descriptions, generated from hex color codes. Press: R to pick a random color.
