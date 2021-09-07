@@ -15,6 +15,7 @@
 
 ### September 8, 2021
 - [The foundation for your design system](https://www.radix-ui.com/) - A suite of components, colors, and icons for building high-quality React design systems and web apps.
+- [Stitches — CSS-in-JS with near-zero runtime](https://stitches.dev/) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience, by Modulz.
 ### September 7, 2021
 - [Mixfont | A modern font generator](https://www.mixfont.com/shadows?ref=producthunt) - Whether you're designing a website or writing a paper, Mixfont is simple way to choose beautiful fonts that work well together.
 - [Ready Player Me - Create a Full-Body 3D Avatar From a Photo](https://readyplayer.me/avatar) - Full-body character creator for the metaverse. Make a 3D avatar from a photo and use it in apps and games like VRChat and LIV
