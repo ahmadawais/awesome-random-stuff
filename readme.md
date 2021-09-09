@@ -13,6 +13,9 @@
 
 
 
+
+### September 9, 2021
+- [State Management In Next.js — Smashing Magazine](https://www.smashingmagazine.com/2021/08/state-management-nextjs/) - By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.
 ### September 8, 2021
 - [The foundation for your design system](https://www.radix-ui.com/) - A suite of components, colors, and icons for building high-quality React design systems and web apps.
 - [Stitches — CSS-in-JS with near-zero runtime](https://stitches.dev/) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience, by Modulz.
