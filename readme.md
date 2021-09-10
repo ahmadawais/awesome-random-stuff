@@ -14,6 +14,9 @@
 
 
 
+
+### September 10, 2021
+- [Headers.me | Cover images that get you followers](https://www.headers.me/) - Create matching cover images for the social media platforms you love without the need of any complex design tools or templates. #twitter
 ### September 9, 2021
 - [State Management In Next.js — Smashing Magazine](https://www.smashingmagazine.com/2021/08/state-management-nextjs/) - By combining some React APIs, we can accurately manage “simple” states. With Next.js though, we can quickly find situations where we need to accommodate many other requirements. Let’s have a look at some patterns to accomplish all that.
 ### September 8, 2021
