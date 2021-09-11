@@ -15,6 +15,9 @@
 
 
 
+
+### September 12, 2021
+- [Web Designer & Developer Toolkit by Addy Codes – Curated tools & resources for people who make websites](https://toolkit.addy.codes/) - Curated tools & resources for people who make websites
 ### September 10, 2021
 - [Headers.me | Cover images that get you followers](https://www.headers.me/) - Create matching cover images for the social media platforms you love without the need of any complex design tools or templates. #twitter
 - [Web Skills](https://andreasbm.github.io/web-skills/) - A visual overview of useful skills to learn as a web developer
