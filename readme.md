@@ -16,6 +16,9 @@
 
 
 
+
+### September 14, 2021
+- [Osome helps businesses in Singapore to outsource their paperwork](https://osome.com/sg/) - Osome helps foreign and Singaporean entrepreneurs to manage their businesses. Register and get your new company operational with our certified agents backed by modern technology
 ### September 12, 2021
 - [Web Designer & Developer Toolkit by Addy Codes – Curated tools & resources for people who make websites](https://toolkit.addy.codes/) - Curated tools & resources for people who make websites
 ### September 10, 2021
