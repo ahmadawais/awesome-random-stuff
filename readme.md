@@ -22,6 +22,7 @@
 
 ### September 27, 2021
 - [On Fire illustrations](https://onfire.craftwork.design/?ref=producthunt) - High-quality interface assets for designers and startup creatives
+- [The Best Cold Email Guide](https://www.coldemailguide.co/?ref=producthunt) - Get tactical advice on 11 pages of no-bs content. See real-life examples from many industries. Learn from 48 case studies from idea-phase to scaling-phase.
 ### September 23, 2021
 - [Railway](https://railway.app/) - Railway is an infrastructure platform where you can provision infrastructure, develop with that infrastructure locally, and then deploy to the cloud.
 - [Motion One](https://motion.dev/) - The Web Animations API for everyone
