@@ -20,6 +20,9 @@
 
 
 
+
+### October 5, 2021
+- [Fly.io](https://fly.io/) - Deploy App Servers close to Your Users. Make your applications 80% faster by running on physical servers in cities where your users are.
 ### September 27, 2021
 - [On Fire illustrations](https://onfire.craftwork.design/?ref=producthunt) - High-quality interface assets for designers and startup creatives
 - [The Best Cold Email Guide](https://www.coldemailguide.co/?ref=producthunt) - Get tactical advice on 11 pages of no-bs content. See real-life examples from many industries. Learn from 48 case studies from idea-phase to scaling-phase.
