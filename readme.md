@@ -21,6 +21,9 @@
 
 
 
+
+### October 7, 2021
+- [Chilipepper](https://chilipepper.io/) - Spicy Notion plugins & extensions
 ### October 5, 2021
 - [Fly.io](https://fly.io/) - Deploy App Servers close to Your Users. Make your applications 80% faster by running on physical servers in cities where your users are.
 ### September 27, 2021
