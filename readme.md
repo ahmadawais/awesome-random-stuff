@@ -22,6 +22,9 @@
 
 
 
+
+### October 11, 2021
+- [Cities For People Not Cars | Culdesac](https://culdesac.com/) - Culdesac builds car-free neighborhoods from scratch. Come live at the first car-free neighborhood in the US - Culdesac Tempe (Phoenix) - 1000 people, 0 cars.
 ### October 7, 2021
 - [Chilipepper](https://chilipepper.io/) - Spicy Notion plugins & extensions
 ### October 5, 2021
