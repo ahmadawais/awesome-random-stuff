@@ -24,6 +24,9 @@
 
 
 
+
+### October 13, 2021
+- [Tiny Function](https://tinyfunction.com/) - Fastest way to create cloud functions. Write your function, deploy and call them from anywhere.
 ### October 12, 2021
 - [Site Archive - Lynn Fisher](https://lynnandtonic.com/archive/) - Previous and archived versions of lynnandtonic.com.
 ### October 11, 2021
