@@ -30,6 +30,7 @@
 - [3dicons - Open source 3D icon library](https://3dicons.co/?ref=producthunt) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
 - [redact.photo • Free and private image redaction in the browser](https://redact.photo/) - Free and private image redaction in the browser
 - [Hashtag Generator - Best Hashtags For Instagram and TikTok](https://hashtagsgenerator.net/) - The hashtags generator for Instagram and TikTok will help you to generate the most popular hashtags based upon your keyword.
+- [.new - Google Registry](https://whats.new/shortcuts/) - Browse the full list of .new shortcuts available today from Adobe, Spotify, and many more.
 ### October 13, 2021
 - [Tiny Function](https://tinyfunction.com/) - Fastest way to create cloud functions. Write your function, deploy and call them from anywhere.
 ### October 12, 2021
