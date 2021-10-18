@@ -26,6 +26,9 @@
 
 
 
+
+### October 18, 2021
+- [Aspect Ratio Calculator - 4:3, 16:9, 21:9 (Ratio calculator)](https://calculateaspectratio.com/) - Calculate the Aspect Ratio (ARC) here by entering your in pixel or ratio ✅. Change the image aspect ratio via this Ratio Calculator ✅. The pixel aspect calculator makes it extremely easy to change any "W:H" format with custom a width or height.
 ### October 14, 2021
 - [3dicons - Open source 3D icon library](https://3dicons.co/?ref=producthunt) - 1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project
 - [redact.photo • Free and private image redaction in the browser](https://redact.photo/) - Free and private image redaction in the browser
