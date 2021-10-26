@@ -27,6 +27,9 @@
 
 
 
+
+### October 26, 2021
+- [Core Web Vitals Checker | Calibre](https://calibreapp.com/tools/core-web-vitals-checker) - Check if your site meets the Core Web Vitals assessment in one click.
 ### October 18, 2021
 - [Aspect Ratio Calculator - 4:3, 16:9, 21:9 (Ratio calculator)](https://calculateaspectratio.com/) - Calculate the Aspect Ratio (ARC) here by entering your in pixel or ratio ✅. Change the image aspect ratio via this Ratio Calculator ✅. The pixel aspect calculator makes it extremely easy to change any "W:H" format with custom a width or height.
 ### October 14, 2021
