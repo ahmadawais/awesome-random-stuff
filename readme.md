@@ -28,6 +28,9 @@
 
 
 
+
+### November 17, 2021
+- [RegexLearn - Step by step, from zero to advanced.](https://regexlearn.com/) - Learn RegEx, step by step, zero to advanced. Playground and Cheatsheet.
 ### October 26, 2021
 - [Core Web Vitals Checker | Calibre](https://calibreapp.com/tools/core-web-vitals-checker) - Check if your site meets the Core Web Vitals assessment in one click.
 ### October 18, 2021
