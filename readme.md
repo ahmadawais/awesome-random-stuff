@@ -29,6 +29,9 @@
 
 
 
+
+### December 10, 2021
+- [The Ultimate Google Sheets Toolkit](https://tools.airboxr.com/?ref=producthunt) - A curated list of Google Sheets resources to supercharge your analysis, manage your workflow, or build expertise in advanced analytics.
 ### November 17, 2021
 - [RegexLearn - Step by step, from zero to advanced.](https://regexlearn.com/) - Learn RegEx, step by step, zero to advanced. Playground and Cheatsheet.
 ### October 26, 2021
