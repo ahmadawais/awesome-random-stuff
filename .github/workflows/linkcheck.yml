@@ -12,6 +12,6 @@ jobs:
       - name: Run linksafe
         uses: TechWiz-3/linksafe@fast
         with:
-          white_links: "https://ahmadawais.com/about,https://AhmadAwais.com/,https://www.linkedin.com/in/MrAhmadAwais/,https://www.canva.com/colors/color-wheel/,https://postaga.com/,https://codepen.io/ahmadawais/pen/yLOGqpm,https://codepen.io/thuijssoon/pen/bEgBLK,https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor?cmpid=social,https://sleeknote.com/,https://emailmastery.org/spotlights,https://weareskribbl.com/?ref=producthunt,https://www.tubebuddy.com/"
+          whitelist_links: "https://ahmadawais.com/about,https://AhmadAwais.com/,https://www.linkedin.com/in/MrAhmadAwais/,https://www.canva.com/colors/color-wheel/,https://postaga.com/,https://codepen.io/ahmadawais/pen/yLOGqpm,https://codepen.io/thuijssoon/pen/bEgBLK,https://www.lg.com/us/monitors/lg-49WL95C-W-ultrawide-monitor?cmpid=social,https://sleeknote.com/,https://emailmastery.org/spotlights,https://weareskribbl.com/?ref=producthunt,https://www.tubebuddy.com/"
         env:
             TOKEN: ${{ secrets.TOKEN }}
